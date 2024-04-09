@@ -1,0 +1,3 @@
+Inspeccionando la carpeta desde Windows Powershell, no puedo ver el archivo tp2_1_2.c desde la rama main, esto se debe a que lo creé en otra rama, es decir en otra versión del repositorio.
+Agregando respuestas.txt desde la rama main, ahora me sale el último commit sobre la misma rama main. Del commit anterior diverge la segunda rama, en paralelo a la main.
+Después de hacer el merge entre la rama main y la secundaria, visualmente se une la segunda ramificación a la principal.
